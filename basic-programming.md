@@ -29,3 +29,9 @@ _[Please help make this better!]_
 
 #### Algorithms
  * [Visualizations of Sorting Algorithms](http://www.sorting-algorithms.com)
+
+### I've included a function for reversing strings in order to add something to this file for the purpose of version control practice
+def reverse_string(string):
+  return string[::-1]
+  
+  
